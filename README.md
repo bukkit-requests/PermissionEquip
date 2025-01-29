@@ -128,7 +128,7 @@ The drop-downs below include items aren't armor but can still be worn in a certa
 ## Config
 This is the default `config.yml` file and will be generated in your `plugins\PermissionEquip` folder upon starting your Minecraft server.
 
-#### *Note: When adding an item to `config.yml` make sure the item matches the item(s) mentioned under "Permissions" above.*
+#### *Note: When adding items to `config.yml` make sure the item matches the item listed under "Permissions" above.*
 
 ```
 items:
